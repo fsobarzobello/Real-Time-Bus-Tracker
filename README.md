@@ -38,3 +38,7 @@ Este proyecto muestra cómo crear un marcador animado en un mapa de Mapbox para 
   - Inicializa el mapa de Mapbox con el token de acceso.
   - Agrega un marcador en el primer paradero de autobús.
   - Define la función `move()` que se llama cuando se selecciona el botón, moviendo el marcador a cada paradero de autobús cada 1000 ms.
+
+### License
+
+Este proyecto está bajo la licencia MIT. Consulte el archivo LICENSE para obtener más detalles.
