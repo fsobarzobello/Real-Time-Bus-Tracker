@@ -41,7 +41,7 @@ Este proyecto muestra cómo crear un marcador animado en un mapa de Mapbox para 
 
 ## Roadmap de Futuras Mejoras
 
-En futuras mejoras, planeamos agregar las siguientes mejoras:
+En futuras mejoras, se puede mejorar en lo siguiente:
 - Agregar una interfaz de usuario para seleccionar diferentes autobuses y sus rutas.
 - Agregar opciones de personalización para los marcadores y distintos layout para el mapa como vista satelital o solo las calles.
 - Mostrar información en tiempo real de la posición del autobús para que el usuario sepa en cuanto puede llegar el bus.
